@@ -2,16 +2,11 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Yan Zhou`
+- **CCID:** `zhou38`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
-
+Used ChatGPT for reasoning behind "selectedCity!!" in updateButton inside CityListScreen.kt
+kotlinlang.org/docs/null-safety.html
 ## Verbal Collaboration
-
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
